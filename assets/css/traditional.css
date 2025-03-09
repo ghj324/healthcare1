@@ -1,0 +1,28 @@
+body {
+    background-color: #f3e5d0 !important;
+    min-height: 100vh;
+    font-family: 'SimSun', serif;
+}
+
+.container {
+    background: rgba(251, 244, 235, 0.95) !important;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(146, 99, 45, 0.1);
+    padding: 2rem;
+    margin-top: 2rem;
+    border: 2px solid #d4b792;
+}
+
+.card {
+    background: #fdfaf5 !important;
+    border: 1px solid #d4b792;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #8b5a2b !important;
+}
+
+.btn-primary {
+    background-color: #a67c52 !important;
+    border-color: #8b5a2b !important;
+}
